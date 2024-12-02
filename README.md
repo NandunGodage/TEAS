@@ -7,11 +7,11 @@ Group Members
 
     Leader : Godage D.N.P (IT21175398) 
     
-    member : Shanoojan.K (IT21187582)
+    Member 1 : Shanoojan.K (IT21187582)
     
-    member : Abiramy.K (IT21187582)
+    Member 2 : Abiramy.K (IT21187582)
     
-    member : Kaneson.K (IT21333170)
+    Member 3 : Kaneson.K (IT21333170)
 
 Individual Componets
 
