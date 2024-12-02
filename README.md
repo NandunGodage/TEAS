@@ -73,3 +73,22 @@ Sub-Objective of TEAS
     - To create an engaging platform that enhances creativity and language comprehension through interactive storytelling.
 
     - To improve users' language skills by providing exercises focused on sentence construction and grammar accuracy.
+
+
+### 🏷️ Technologies & Tools used 
+    - 
+    
+### 🏷️ How to Contribute to the project
+01.  Copy the link of the repository 
+02.  Open IDE
+03.  Import TEAS repository
+04.  Checkout to your branch 
+05.  Do the necessary Changes
+06.  Commit changes
+07.  Push them to **"your"** branch
+08.  Assign group leader for your pull request
+09.  Create a Pull Request to the **"development"** branch
+
+<sub><sup>📌 *documented by @NandunGodage 2024* </sup></sub>
+
+
