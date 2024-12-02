@@ -22,3 +22,17 @@ Individual Componets
     Abiramy.K : Interactive Storytelling System with Predictive Text
 
     Kaneson.K : Sentence Formation and Grammar Checking exercises
+
+Main Objective of TEAS 
+
+    Our main objective is to provide a platform to primary school students for an effective and easy education to increase the efficiency of the online education system in Tamil language. 
+
+Sub-Objective of TEAS
+
+    - To develop a tool that creates clear and concise short notes from Tamil video transcripts, making content easier to understand and access. 
+
+    - Assist the students in improving their communication abilities and developing proper pronunciation.
+
+    - To create an engaging platform that enhances creativity and language comprehension through interactive storytelling.
+
+    - To improve users' language skills by providing exercises focused on sentence construction and grammar accuracy.
