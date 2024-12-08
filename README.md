@@ -59,19 +59,19 @@ Topic : Tamil Education Assistant System (for Primary Education)
 ______________
 <div align ="center">
 <a href = "https://www.python.org/">
-    <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=800%2C800&ssl=1" alt="python" style="display: inline-block; margin: 10px;" width="150">
+    <img src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=800%2C800&ssl=1" alt="python" style="display: inline-block; margin: 10px;" width="50">
 </a>
 <a href = "https://jupyter.org">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png" alt="jupyter" style="display: inline-block; margin: 10px;" width="150">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png" alt="jupyter" style="display: inline-block; margin: 10px;" width="50">
 </a>
 <a href = "https://www.tensorflow.org/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmAmqfydDrHJVZVK-43-EOvaWOxfzR4tZQ0w&s" alt="tensorflow" style="display: inline-block; margin: 10px;" width="150">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmAmqfydDrHJVZVK-43-EOvaWOxfzR4tZQ0w&s" alt="tensorflow" style="display: inline-block; margin: 10px;" width="50">
 </a>
 <a herf = "https://keras.io/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="keras" style="display: inline-block; margin: 10px;" width="150">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="keras" style="display: inline-block; margin: 10px;" width="50">
 </a>
 <a herf = "https://openai.com/index/gpt-4/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/GPT-4.png" alt="openai" style="display: inline-block; margin: 10px;" width="150">    
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/GPT-4.png" alt="openai" style="display: inline-block; margin: 10px;" width="50">    
 </a>
 </div>
 
