@@ -9,7 +9,7 @@ Topic : Tamil Education Assistant System (for Primary Education)
 |**Group Leader**|  **IT21175398** |  **Godage D N P** | NandunGodage | 
 |Member 2| IT21187582 | Shanoojan K | | 
 |Member 3| IT21176142 |  Abiramy.K  | Abiramy.K | 
-|Member 4| IT21333170 | Kaneson.K   | |
+|Member 4| IT21333170 | Kaneson.K   |it21333170 |
 
 
 ### 🏷️ **Individual Componets**
