@@ -1,8 +1,12 @@
 # Research Information 📚
 Research Topic : Tamil Education Assistant System (for Primary Education)
+
 Main Research Domain : Computing for Inclusive and Equitable Society (CIEC)
+
 Sub Research Domain : E-learning and Education (ELE) 
+
 Supervisor : Dr.Sanika Wijayasekara
+
 co-Supervisor : Ms. Rivoni De Zoysa
 
 ## 🔖 Group ID : 24-25J-241
