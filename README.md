@@ -7,7 +7,7 @@ Sub Research Domain : E-learning and Education (ELE)
 
 Supervisor : Dr.Sanika Wijayasekara
 
-co-Supervisor : Ms. Rivoni De Zoysa
+Co-Supervisor : Ms. Rivoni De Zoysa
 
 ## 🔖 Group ID : 24-25J-241
 
@@ -33,6 +33,15 @@ co-Supervisor : Ms. Rivoni De Zoysa
 ### 🏷️ **Main Objective of TEAS** 
 
     Our main objective is to provide a platform to primary school students for an effective and easy education to increase the efficiency of the online education system in Tamil language. 
+
+### 🏷️ **Main Research questios of TEAS**
+    - How effective is speech recognition technology in improving pronunciation among Tamil primary learners? 
+
+    - What impact does interactive storytelling have on reading comprehension and creative thinking in young learners?
+
+    - How does adaptive learning influence student engagement and retention in Tamil language education? 
+
+    - What are the challenges and limitations of existing Tamil language learning applications, and how can they be addressed through TEAS? 
 
 ### 🏷️ **Sub-Objective of TEAS**
 
