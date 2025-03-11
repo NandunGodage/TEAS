@@ -43,6 +43,10 @@ Co-Supervisor : Ms. Rivoni De Zoysa
 
     - What are the challenges and limitations of existing Tamil language learning applications, and how can they be addressed through TEAS? 
 
+    - What role does machine-assisted grammar checking and sentence formation exercises play in enhancing students’ writing skills?
+
+    - How does the proposed Tamil Educational Assistant System compare to traditional teaching methods in terms of learning effectiveness and user satisfaction?
+
 ### 🏷️ **Sub-Objective of TEAS**
 
     - To develop a tool that creates clear and concise short notes from Tamil video transcripts, making content easier to understand and access. 
