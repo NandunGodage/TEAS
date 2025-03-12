@@ -15,7 +15,7 @@ Co-Supervisor : Ms. Rivoni De Zoysa
 |Member | Registration Number| Name | GitHub UserName |
 | :---: | :---: | :---: | :---: |
 |**Group Leader**|  **IT21175398** |  **Godage D N P** | NandunGodage | 
-|Member 2| IT21187582 | Shanoojan K | | 
+|Member 2| IT21187582 | Shanoojan K | Shanoojan.K | 
 |Member 3| IT21176142 |  Abiramy.K  | Abiramy.K | 
 |Member 4| IT21333170 | Kaneson.K   | it21333170 |
 
