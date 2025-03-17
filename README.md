@@ -46,6 +46,19 @@ Co-Supervisor : Ms. Rivoni De Zoysa
 
     - To improve users' language skills by providing exercises focused on sentence construction and grammar accuracy.
 
+### 🏷️ **Main Research Questios of TEAS**
+    - How effective is speech recognition technology in improving pronunciation among Tamil primary learners? 
+
+    - What impact does interactive storytelling have on reading comprehension and creative thinking in young learners?
+
+    - How does adaptive learning influence student engagement and retention in Tamil language education? 
+
+    - What are the challenges and limitations of existing Tamil language learning applications, and how can they be addressed through TEAS? 
+
+    - What role does machine-assisted grammar checking and sentence formation exercises play in enhancing students’ writing skills?
+
+    - How does the proposed Tamil Educational Assistant System compare to traditional teaching methods in terms of learning effectiveness and user satisfaction?
+
 
 ### 🏷️ Technologies & Tools used 
     - Python
