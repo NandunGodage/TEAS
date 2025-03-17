@@ -1,4 +1,6 @@
-# Research Information 📚
+# TEAS 📚
+
+# Research Information 
 Research Topic : Tamil Education Assistant System (TEAS) for Primary Education
 
 Main Research Domain : Computing for Inclusive and Equitable Society (CIEC)
