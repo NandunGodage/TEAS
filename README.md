@@ -36,7 +36,7 @@ Co-Supervisor : Ms. Rivoni De Zoysa
 
     Our main objective is to provide a platform to primary school students for an effective and easy education to increase the efficiency of the online education system in Tamil language.  
 
-### 🏷️ **Sub-Objective of TEAS**
+### 🏷️ **Sub-Objective of TEAS** 
 
     - To develop a tool that creates clear and concise short notes from Tamil video transcripts, making content easier to understand and access. 
 
