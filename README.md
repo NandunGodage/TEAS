@@ -20,7 +20,7 @@ Co-Supervisor : Ms. Rivoni De Zoysa
 |Member 4| IT21333170 | Kaneson.K   | it21333170 |
 
 
-### 🏷️ **Individual Componets**
+### 🏷️ **Individual Components**
 
     Godage D.N.P : Create Brief Notes Based on Video Transcripts
 
