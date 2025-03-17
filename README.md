@@ -34,7 +34,7 @@ Co-Supervisor : Ms. Rivoni De Zoysa
 
     Our main objective is to provide a platform to primary school students for an effective and easy education to increase the efficiency of the online education system in Tamil language. 
 
-### 🏷️ **Main Research Questios of TEAS**
+### 🏷️ **Main Research Questions of TEAS**
     - How effective is speech recognition technology in improving pronunciation among Tamil primary learners? 
 
     - What impact does interactive storytelling have on reading comprehension and creative thinking in young learners?
