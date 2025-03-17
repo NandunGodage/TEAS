@@ -48,7 +48,11 @@ Co-Supervisor : Ms. Rivoni De Zoysa
 
 
 ### 🏷️ Technologies & Tools used 
-    - 
+    - Python
+    - Jupyter Notebook
+    - TensorFlow
+    - Keras
+    - GPT 4
     
 ### 🏷️ How to Contribute to the project
 01.  Copy the link of the repository 
