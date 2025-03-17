@@ -22,15 +22,15 @@ Co-Supervisor : Ms. Rivoni De Zoysa
 |Member 4| IT21333170 | Kaneson.K   |it21333170 |
 
 
-### 🏷️ **Individual Componets**
+### 🏷️ **Individual Components**
 
-    Godage D.N.P : Create Brief Notes Based on Video Transcripts
+    Godage D.N.P : Create Brief Notes Based on Video Transcripts.
 
-    Shanoojan.K : Speech Therapy Based in Tamil
+    Shanoojan.K : Speech Therapy Based in Tamil.
 
-    Abiramy.K : Interactive Storytelling System with Predictive Text
+    Abiramy.K : Interactive Storytelling System with Predictive Text.
 
-    Kaneson.K : Sentence Formation and Grammar Checking exercises
+    Kaneson.K : Sentence Formation and Grammar Checking exercises.
 
 ### 🏷️ **Main Objective of TEAS** 
 
