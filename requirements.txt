@@ -1,0 +1,12 @@
+uvicorn
+fastapi
+streamlit
+pandas
+openai
+pyyaml
+pydub
+moviepy
+botocore
+boto3
+python-multipart
+-e .
