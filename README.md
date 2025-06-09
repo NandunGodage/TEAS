@@ -35,7 +35,7 @@ Kaneson.K : Sentence Formation and Grammar Checking exercises
 
 ### 🏷️ **Main Objective of TEAS** 
 
-Our main objective is to provide a platform to primary school students for an effective and easy education to increase the efficiency of the online education system in Tamil language. 
+Our main objective is to provide a platform to primary school students for an effective and easy education to increase the efficiency of the online education system in Tamil language.   
 
 ### 🏷️ **Main Research Questions of TEAS**
 - How effective is speech recognition technology in improving pronunciation among Tamil primary learners? 
