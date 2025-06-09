@@ -63,10 +63,13 @@ Our main objective is to provide a platform to primary school students for an ef
 
 ### 🏷️ Technologies & Tools used 
 - Python
+- OpenAI
+- AWS S3 Budget 
+- Fast API
+- Streamlit
+- OpenAI Storage
 - Jupyter Notebook
-- TensorFlow
-- Keras
-- GPT 4
+
 
 
 ### 🏷️ How to Contribute to the project
